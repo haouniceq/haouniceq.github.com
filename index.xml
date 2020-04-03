@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Sitio web Humberto</title>
+    <link>http://haouniceq.github.io/</link>
+    <description>Recent content on Sitio web Humberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://haouniceq.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Información de contacto</title>
+      <link>http://haouniceq.github.io/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://haouniceq.github.io/contacto/</guid>
+      <description>Medios de contacto disponibles:
+  GitHub
+  Sitio Personal
+  </description>
+    </item>
+    
+    <item>
+      <title>Portafolio de proyectos</title>
+      <link>http://haouniceq.github.io/portafolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://haouniceq.github.io/portafolio/</guid>
+      <description> Simulación de RED empresarial en packet tracer Programa para el control de estacionamiento publico Script para auditoria de Sistemas Operativos Windows Script para incrementar la seguridad en Sistemas Operativos Windows  </description>
+    </item>
     
   </channel>
 </rss>
